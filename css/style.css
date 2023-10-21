@@ -1,0 +1,36 @@
+header,
+footer {
+    color: rgb(241, 241, 238);
+    border: 2px solid black;
+    background: rgb(53, 47, 47);
+    padding: 5px;
+    text-align: center;
+}
+
+nav {
+background-color: rgba(201, 171, 137, 0.884); 
+color: rgb(59, 177, 177);
+padding: 10px;
+}
+
+.content {
+width: 1500px;
+margin: 0 auto;
+}
+
+
+main {
+background: rgb(230, 233, 230);
+padding: 10px;
+}
+
+.b {
+width: "640";
+height: "480";
+}
+
+footer{
+    background: rgb(161, 175, 201) ;
+    color: black;
+    
+}
